@@ -8,6 +8,24 @@ and any fine-tuned or derived weights.
 It ships the model class mlx-vlm needs (`muse_glimmer`): the Qwen2.5-VL-style vision
 tower, the language model, the projector, and the image processor.
 
+## Demo
+
+One local model — recognition, fine-grained ID, landmarks, in-the-wild OCR, and chart
+reading. Every answer below is a real, unedited output running on-device via MLX:
+
+<video src="https://github.com/nicedreamzapp/mlx-vlm-muse-glimmer/raw/main/assets/demo.mp4" controls width="100%"></video>
+
+[▶ Watch the demo](https://github.com/nicedreamzapp/mlx-vlm-muse-glimmer/raw/main/assets/demo.mp4) · if the player doesn't load, click the poster:
+
+[![Muse-Glimmer vision demo](assets/demo-poster.png)](https://github.com/nicedreamzapp/mlx-vlm-muse-glimmer/raw/main/assets/demo.mp4)
+
+- **Golden retriever** — recognition
+- **Two men + a red Jaguar** — scene understanding
+- **Badge blurred → still "Jaguar F-Type"** — fine-grained ID from the duck-tail spoiler alone
+- **Taj Mahal** — landmark + geography (Agra, India)
+- **"1501 BROADWAY" neon** — reads text in the wild
+- **Bar chart** — reads data (Q4 highest at $73M, trend up)
+
 ## What's here
 
 ```
