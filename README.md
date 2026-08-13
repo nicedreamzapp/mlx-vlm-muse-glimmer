@@ -13,9 +13,9 @@ tower, the language model, the projector, and the image processor.
 One local model — recognition, fine-grained ID, landmarks, in-the-wild OCR, and chart
 reading. Every answer below is a real, unedited output running on-device via MLX:
 
-[![Muse-Glimmer vision demo — click to play](assets/demo-poster.png)](https://huggingface.co/divinetribe/Muse-Glimmer-30B-Abliterated-MM-bf16#demo)
+[![Muse-Glimmer vision demo — click to play](assets/demo-poster.png)](https://www.youtube.com/watch?v=5fs_FfkCaDA)
 
-▶ **[Watch the demo](https://huggingface.co/divinetribe/Muse-Glimmer-30B-Abliterated-MM-bf16#demo)** (click the poster above)
+▶ **[Watch the demo on YouTube](https://www.youtube.com/watch?v=5fs_FfkCaDA)** (click the poster above)
 
 - **Golden retriever** — recognition
 - **Two men + a red Jaguar** — scene understanding
